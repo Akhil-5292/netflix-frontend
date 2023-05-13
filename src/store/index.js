@@ -128,4 +128,4 @@ export const store = configureStore({
   },
 });
 
-export const { setGenres, setMovies } = NetflixSlice.actions
+export const { setGenres, setMovies } = NetflixSlice.actions;
