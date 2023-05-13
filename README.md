@@ -7,5 +7,9 @@ This project is based on NETFLIX CLONE. Here you can register yourself and watch
 
 HTML, CSS, Javascript, MongoDB, Express, Firebase and React.js
 
+### DEMO
+
+link- https://netflix-frontend-neon.vercel.app/login
+
 ## 🚀 About Me
 I'm a Front-End developer...
