@@ -22,7 +22,7 @@ export default function TVShows() {
 
   useEffect(() => {
     if (!genres.length) dispatch(getGenres());
-  }, []);
+  }, [])
 
   useEffect(() => {
     if (genresLoaded) {
