@@ -27,7 +27,7 @@ export default React.memo(function Card({movieData, isLiked = false }) {
 
   const addToList = async () => {
     try {
-      await axios.post("https://backend-rosy-beta.vercel.app/api/user/add", {
+      await axios.post("https://netflix-frontend-hewd.vercel.app/api/user/add", {
         email,
         data: movieData,
       });
