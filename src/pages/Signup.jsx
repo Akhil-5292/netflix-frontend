@@ -16,7 +16,7 @@ export default function Signup() {
     email: "",
     password: "",
   });
-  const navigate = useNavigate();
+  const navigate = useNavigate()
 
   const handleSignIn = async () => {
     try {
