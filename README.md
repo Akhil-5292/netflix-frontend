@@ -6,3 +6,6 @@ This project is based on NETFLIX CLONE. Here you can register yourself and watch
 ### Tech used
 
 HTML, CSS, Javascript, MongoDB, Express, Firebase and React.js
+
+## 🚀 About Me
+I'm a Front-End developer...
